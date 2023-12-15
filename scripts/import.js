@@ -70,6 +70,8 @@ const doImport = async () => {
 
     const cards = [];
 
+    let successfulCardCount = 0;
+
     for (let i = 1; i <= set.maxCardNumber; i++) {
       // for (let i = 1; i <= 10; i++) {
       //get the card info
@@ -84,6 +86,7 @@ const doImport = async () => {
           }`
         );
         cards.push(cardResponse.data);
+        successfulCardCount = successfulCardCount + 1;
       } catch (e) {
         if (e.message == "AxiosError") {
           console.log("\t***Problem getting card. Likely not in db yet");
@@ -93,6 +96,8 @@ const doImport = async () => {
       }
       console.log("\n");
     }
+
+    console.log("SUCCESSFULLY GOT " + successfulCardCount + " CARDS");
 
     fs.writeFileSync(
       path.join(setsDir, set.englishSetName + ".json"),
