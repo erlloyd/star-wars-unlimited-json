@@ -1,0 +1,190 @@
+[
+    {
+        "Set": "SHD",
+        "Number": "002",
+        "Name": "Qi'ra",
+        "Subtitle": "I Alone Survived",
+        "Type": "Leader",
+        "Aspects": [
+            "Vigilance",
+            "Villainy"
+        ],
+        "Traits": [
+            "UNDERWORLD"
+        ],
+        "Arenas": [
+            "Ground"
+        ],
+        "Cost": "5",
+        "Power": "0",
+        "HP": "8",
+        "FrontText": "Action [{{C=1}}, {{Exhaust}}]: Deal 2 damage to a friendly unit. Then, give a Shield token to it.",
+        "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader.",
+        "DoubleSided": true,
+        "BackText": "GRIT (This unit gets +1/+0 for each damage on her.)\nWhen Deployed: Heal all damage from each unit. Then, deal damage to each unit equal to half its remaining HP, rounded down.",
+        "Rarity": "Rare",
+        "Unique": true,
+        "Artist": "Gretel Nancy Lusky",
+        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/002.png",
+        "BackArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/002-b.png",
+        "VariantType": "Normal",
+        "MarketPrice": "0.00"
+    },
+    {
+        "Set": "SHD",
+        "Number": "004",
+        "Name": "Rey",
+        "Subtitle": "More Than a Scavenger",
+        "Type": "Leader",
+        "Aspects": [
+            "Vigilance",
+            "Heroism"
+        ],
+        "Traits": [
+            "FORCE",
+            "FRINGE"
+        ],
+        "Arenas": [
+            "Ground"
+        ],
+        "Cost": "6",
+        "Power": "2",
+        "HP": "6",
+        "FrontText": "Action [{{C=1}}, {{Exhaust}}]: Give an Experience token to a unit with 2 or less power.",
+        "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader.",
+        "DoubleSided": true,
+        "BackText": "RESTORE 3 (When this unit attacks, heal 3 damage from your base.)\nOn Attack: You may give an Experience token to a unit with 2 or less power.",
+        "Rarity": "Common",
+        "Unique": true,
+        "Artist": "David Buisan",
+        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/004.png",
+        "BackArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/004-b.png",
+        "VariantType": "Normal",
+        "MarketPrice": "0.00"
+    },
+    {
+        "Set": "SHD",
+        "Number": "007",
+        "Name": "Moff Gideon",
+        "Subtitle": "Formidable Commander",
+        "Type": "Leader",
+        "Aspects": [
+            "Command",
+            "Villainy"
+        ],
+        "Traits": [
+            "IMPERIAL",
+            "OFFICIAL"
+        ],
+        "Arenas": [
+            "Ground"
+        ],
+        "Cost": "5",
+        "Power": "3",
+        "HP": "6",
+        "FrontText": "Action [{{Exhaust}}]: Attack with a unit that costs 3 or less. If it's attacking a unit, it gets +1/+0 for this attack.",
+        "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader. (Flip him, ready him, and move him to the ground arena.)",
+        "DoubleSided": true,
+        "BackText": "OVERWHELM (When attacking an enemy unit, deal excess damage to the opponent's base.)\nEach friendly unit that costs 3 or less gets +1/+0 and gains OVERWHELM while attacking an enemy unit.",
+        "Rarity": "Special",
+        "Unique": true,
+        "Artist": "Eric Hibbeler",
+        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/007.png",
+        "BackArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/007-b.png",
+        "VariantType": "Normal",
+        "MarketPrice": "0.00"
+    },
+    {
+        "Set": "SHD",
+        "Number": "018",
+        "Name": "The Mandalorian",
+        "Subtitle": "Sworn to the Creed",
+        "Type": "Leader",
+        "Aspects": [
+            "Cunning",
+            "Heroism"
+        ],
+        "Traits": [
+            "MANDALORIAN",
+            "BOUNTY HUNTER"
+        ],
+        "Arenas": [
+            "Ground"
+        ],
+        "Cost": "6",
+        "Power": "4",
+        "HP": "7",
+        "FrontText": "When you play an upgrade: You may exhaust this leader. If you do, exhaust an enemy unit with 4 or less remaining HP.",
+        "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader. (Flip him, ready him, and move him to the ground arena.)",
+        "DoubleSided": true,
+        "BackText": "When you play an upgrade: You may exhaust an enemy unit with 6 or less remaining HP.",
+        "Rarity": "Special",
+        "Unique": true,
+        "Artist": "Eric Hibbeler",
+        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/018.png",
+        "BackArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/018-b.png",
+        "VariantType": "Normal",
+        "MarketPrice": "0.00"
+    },
+    {
+        "Set": "SHD",
+        "Number": "090",
+        "Name": "Maul",
+        "Subtitle": "Shadow Collective Visionary",
+        "Type": "Unit",
+        "Aspects": [
+            "Command",
+            "Villainy"
+        ],
+        "Traits": [
+            "FORCE",
+            "UNDERWORLD"
+        ],
+        "Arenas": [
+            "Ground"
+        ],
+        "Cost": "7",
+        "Power": "7",
+        "HP": "6",
+        "FrontText": "AMBUSH, OVERWHELM\nOn Attack: You may choose another friendly UNDERWORLD unit. If you do, all damage that would be dealt to this unit during this attack is dealt to the chosen unit instead.",
+        "DoubleSided": false,
+        "Rarity": "Rare",
+        "Unique": true,
+        "Keywords": [
+            "Ambush",
+            "Overwhelm"
+        ],
+        "Artist": "Amad Mir",
+        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/090.png",
+        "VariantType": "Normal",
+        "MarketPrice": "0.45"
+    },
+    {
+        "Set": "SHD",
+        "Number": "153",
+        "Name": "Poe Dameron",
+        "Subtitle": "Quick to Improvise",
+        "Type": "Unit",
+        "Aspects": [
+            "Aggression",
+            "Heroism"
+        ],
+        "Traits": [
+            "RESISTANCE"
+        ],
+        "Arenas": [
+            "Ground"
+        ],
+        "Cost": "5",
+        "Power": "6",
+        "HP": "6",
+        "FrontText": "On Attack: Discard up to 3 cards from your hand. For each card discarded this way, choose a different option:\nDeal 2 damage to a unit or base.\nDefeat an upgrade.\nDn opponent discards a card from their hand.",
+        "DoubleSided": false,
+        "Rarity": "Legendary",
+        "Unique": true,
+        "Artist": "Amélie Hutt",
+        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/153.png",
+        "VariantType": "Normal",
+        "MarketPrice": "0.45"
+    }
+]

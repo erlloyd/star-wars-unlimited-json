@@ -11,6 +11,11 @@ const allSets = [
     englishSetName: "Spark of Rebellion",
     maxCardNumber: 252,
   },
+  {
+    apiSetName: "shd",
+    englishSetName: "Shadows of the Galaxy",
+    maxCardNumber: 252,
+  },
 ];
 
 const axiosCache = {};
