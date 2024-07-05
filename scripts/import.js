@@ -90,6 +90,9 @@ const doImport = async () => {
             cardResponse.data.Subtitle ? " - " + cardResponse.data.Subtitle : ""
           }`
         );
+        // Don't want to store MarketPrice as it changes frequently
+        delete cardResponse.data.MarketPrice;
+
         cards.push(cardResponse.data);
         successfulCardCount = successfulCardCount + 1;
       } catch (e) {
