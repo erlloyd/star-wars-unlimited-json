@@ -6662,5 +6662,224 @@
         "Artist": "Eric Hibbeler",
         "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/252.png",
         "VariantType": "Normal"
+    },
+    {
+        "Set": "SHD",
+        "Number": "253",
+        "Name": "This Is The Way",
+        "Type": "Event",
+        "Aspects": [
+            "Heroism"
+        ],
+        "Traits": [
+            "MANDALORIAN"
+        ],
+        "Cost": "2",
+        "FrontText": "Search the top 8 cards of your deck for up to 2 Mandalorian and/or upgrade cards, reveal them, and draw them. (Put the other cards on the bottom of your deck in a random order.)",
+        "DoubleSided": false,
+        "Rarity": "Uncommon",
+        "Unique": false,
+        "Artist": "Kyle Petchock",
+        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/253.png",
+        "VariantType": "Normal"
+    },
+    {
+        "Set": "SHD",
+        "Number": "254",
+        "Name": "Bounty Guild Initiate",
+        "Type": "Unit",
+        "Traits": [
+            "BOUNTY HUNTER"
+        ],
+        "Arenas": [
+            "Ground"
+        ],
+        "Cost": "1",
+        "Power": "1",
+        "HP": "2",
+        "FrontText": "When Played: If you control another Bounty Hunter unit, you may deal 2 damage to a ground unit.",
+        "DoubleSided": false,
+        "Rarity": "Common",
+        "Unique": false,
+        "Artist": "Marc Escachx",
+        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/254.png",
+        "VariantType": "Normal"
+    },
+    {
+        "Set": "SHD",
+        "Number": "255",
+        "Name": "Lady Proxima",
+        "Subtitle": "White Worm Matriarch",
+        "Type": "Unit",
+        "Traits": [
+            "UNDERWORLD"
+        ],
+        "Arenas": [
+            "Ground"
+        ],
+        "Cost": "1",
+        "Power": "0",
+        "HP": "4",
+        "FrontText": "When you play another Underworld card: You may deal 1 damage to a base.",
+        "DoubleSided": false,
+        "Rarity": "Uncommon",
+        "Unique": true,
+        "Artist": "Luke Harrington",
+        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/255.png",
+        "VariantType": "Normal"
+    },
+    {
+        "Set": "SHD",
+        "Number": "256",
+        "Name": "Mercenary Gunship",
+        "Type": "Unit",
+        "Traits": [
+            "UNDERWORLD",
+            "VEHICLE",
+            "FIGHTER"
+        ],
+        "Arenas": [
+            "Space"
+        ],
+        "Cost": "2",
+        "Power": "3",
+        "HP": "2",
+        "FrontText": "Action [C=4]: Take control of this unit. Any player may use this ability.",
+        "DoubleSided": false,
+        "Rarity": "Uncommon",
+        "Unique": false,
+        "Artist": "Christian Papazoglakis",
+        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/256.png",
+        "VariantType": "Normal"
+    },
+    {
+        "Set": "SHD",
+        "Number": "257",
+        "Name": "Underworld Thug",
+        "Type": "Unit",
+        "Traits": [
+            "UNDERWORLD"
+        ],
+        "Arenas": [
+            "Ground"
+        ],
+        "Cost": "2",
+        "Power": "2",
+        "HP": "3",
+        "FrontText": "",
+        "DoubleSided": false,
+        "Rarity": "Common",
+        "Unique": false,
+        "Artist": "Felipe Goncalves",
+        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/257.png",
+        "VariantType": "Normal"
+    },
+    {
+        "Set": "SHD",
+        "Number": "258",
+        "Name": "Mandalorian Warrior",
+        "Type": "Unit",
+        "Traits": [
+            "MANDALORIAN"
+        ],
+        "Arenas": [
+            "Ground"
+        ],
+        "Cost": "3",
+        "Power": "3",
+        "HP": "3",
+        "FrontText": "When Played: You may give an Experience token to another Mandalorian unit.",
+        "DoubleSided": false,
+        "Rarity": "Common",
+        "Unique": true,
+        "Artist": "Ash Pierce",
+        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/258.png",
+        "VariantType": "Normal"
+    },
+    {
+        "Set": "SHD",
+        "Number": "259",
+        "Name": "Twin Pod Cloud Car",
+        "Type": "Unit",
+        "Traits": [
+            "FRINGE",
+            "VEHICLE",
+            "FIGHTER"
+        ],
+        "Arenas": [
+            "Space"
+        ],
+        "Cost": "3",
+        "Power": "2",
+        "HP": "2",
+        "FrontText": "Restore 2 (When this unit attacks, heal 2 damage from your base.)",
+        "DoubleSided": false,
+        "Rarity": "Common",
+        "Unique": false,
+        "Keywords": [
+            "Restore"
+        ],
+        "Artist": "Christian Papazoglakis",
+        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/259.png",
+        "VariantType": "Normal"
+    },
+    {
+        "Set": "SHD",
+        "Number": "260",
+        "Name": "Street Gang Recruiter",
+        "Type": "Unit",
+        "Traits": [
+            "UNDERWORLD"
+        ],
+        "Arenas": [
+            "Ground"
+        ],
+        "Cost": "5",
+        "Power": "4",
+        "HP": "4",
+        "FrontText": "When Played: You may return an Underworld card from your discard pile to your hand.",
+        "DoubleSided": false,
+        "Rarity": "Common",
+        "Unique": false,
+        "Artist": "Yvette Chua",
+        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/260.png",
+        "VariantType": "Normal"
+    },
+    {
+        "Set": "SHD",
+        "Number": "261",
+        "Name": "Rich Reward",
+        "Type": "Upgrade",
+        "Traits": [
+            "BOUNTY",
+            "CONDITION"
+        ],
+        "Cost": "1",
+        "Power": "0",
+        "HP": "0",
+        "FrontText": "Attached unit gains: \"Bounty - Give an Experience token to each of up to 2 units.\" (When this unit is defeated or captured, its opponent collects its bounty.)",
+        "DoubleSided": false,
+        "Rarity": "Common",
+        "Unique": false,
+        "Artist": "Rebecca Farrow",
+        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/261.png",
+        "VariantType": "Normal"
+    },
+    {
+        "Set": "SHD",
+        "Number": "262",
+        "Name": "Confiscate",
+        "Type": "Event",
+        "Traits": [
+            "LAW"
+        ],
+        "Cost": "1",
+        "FrontText": "Defeat an upgrade.",
+        "DoubleSided": false,
+        "Rarity": "Special",
+        "Unique": false,
+        "Artist": "French Carlomagno",
+        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/262.png",
+        "VariantType": "Normal"
     }
 ]

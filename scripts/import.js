@@ -14,7 +14,7 @@ const allSets = [
   {
     apiSetName: "shd",
     englishSetName: "Shadows of the Galaxy",
-    maxCardNumber: 252,
+    maxCardNumber: 262,
   },
 ];
 
@@ -90,8 +90,9 @@ const doImport = async () => {
             cardResponse.data.Subtitle ? " - " + cardResponse.data.Subtitle : ""
           }`
         );
-        // Don't want to store MarketPrice as it changes frequently
+        // Don't want to store prices as it changes frequently
         delete cardResponse.data.MarketPrice;
+        delete cardResponse.data.FoilPrice;
 
         cards.push(cardResponse.data);
         successfulCardCount = successfulCardCount + 1;
