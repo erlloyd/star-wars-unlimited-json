@@ -16,6 +16,11 @@ const allSets = [
     englishSetName: "Shadows of the Galaxy",
     maxCardNumber: 262,
   },
+  {
+    apiSetName: "twi",
+    englishSetName: "Twilight of the Republic",
+    maxCardNumber: 257,
+  },
 ];
 
 const axiosCache = {};

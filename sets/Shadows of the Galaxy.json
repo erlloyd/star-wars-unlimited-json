@@ -23,13 +23,13 @@
         "FrontText": "Each friendly upgraded unit gets +1/+0.",
         "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader.",
         "DoubleSided": true,
+        "BackArt": "https://cdn.swu-db.com/images/cards/SHD/001-b.png",
         "BackText": "Each friendly upgraded unit gets +1/+0 and gains \"When Defeated: You may return an upgrade that was attached to this unit to its owner's hand.\"",
         "Rarity": "Common",
         "Unique": true,
         "Artist": "Ario Murti",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/001.png",
-        "BackArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/001-b.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/001.png"
     },
     {
         "Set": "SHD",
@@ -53,13 +53,13 @@
         "FrontText": "Action [{{C=1}}, {{Exhaust}}]: Deal 2 damage to a friendly unit. Then, give a Shield token to it.",
         "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader.",
         "DoubleSided": true,
+        "BackArt": "https://cdn.swu-db.com/images/cards/SHD/002-b.png",
         "BackText": "GRIT (This unit gets +1/+0 for each damage on her.)\nWhen Deployed: Heal all damage from each unit. Then, deal damage to each unit equal to half its remaining HP, rounded down.",
         "Rarity": "Rare",
         "Unique": true,
         "Artist": "Gretel Nancy Lusky",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/002.png",
-        "BackArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/002-b.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/002.png"
     },
     {
         "Set": "SHD",
@@ -84,13 +84,13 @@
         "FrontText": "Action [{{Exhaust}}]: Defeat a friendly upgrade on a unit. If you do, give a Shield token to that unit.",
         "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader.",
         "DoubleSided": true,
+        "BackArt": "https://cdn.swu-db.com/images/cards/SHD/003-b.png",
         "BackText": "On Attack: You may defeat a friendly upgrade on a unit. If you do, give a Shield token to that unit.",
         "Rarity": "Rare",
         "Unique": true,
         "Artist": "Renaud Scheidt",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/003.png",
-        "BackArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/003-b.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/003.png"
     },
     {
         "Set": "SHD",
@@ -115,13 +115,13 @@
         "FrontText": "Action [{{C=1}}, {{Exhaust}}]: Give an Experience token to a unit with 2 or less power.",
         "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader.",
         "DoubleSided": true,
+        "BackArt": "https://cdn.swu-db.com/images/cards/SHD/004-b.png",
         "BackText": "RESTORE 3 (When this unit attacks, heal 3 damage from your base.)\nOn Attack: You may give an Experience token to a unit with 2 or less power.",
         "Rarity": "Common",
         "Unique": true,
         "Artist": "David Buisán",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/004.png",
-        "BackArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/004-b.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/004.png"
     },
     {
         "Set": "SHD",
@@ -145,13 +145,13 @@
         "FrontText": "When you play a card using SMUGGLE: You may exhaust this leader. If you do, give an Experience token to a unit.",
         "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader.",
         "DoubleSided": true,
+        "BackArt": "https://cdn.swu-db.com/images/cards/SHD/005-b.png",
         "BackText": "RAID 1 (This unit gets +1/+0 while attacking.)\nWhen you play a card using SMUGGLE: You may give an Experience token to a unit.",
         "Rarity": "Common",
         "Unique": true,
         "Artist": "Aitor Prieto",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/005.png",
-        "BackArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/005-b.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/005.png"
     },
     {
         "Set": "SHD",
@@ -176,13 +176,13 @@
         "FrontText": "Action [{{Exhaust}}]: Choose a unit. For this phase it gains: \"BOUNTY - The next unit you play this phase costs 1 less.\"",
         "EpicAction": "Epic Action: If you control 7 or more resources, deploy this leader.",
         "DoubleSided": true,
+        "BackArt": "https://cdn.swu-db.com/images/cards/SHD/006-b.png",
         "BackText": "When Deployed: Another friendly unit captures an enemy non-leader unit.\nAction [{{Exhaust}}]: Choose a unit. For this phase, it gains \"BOUNTY - The next unit you play this phase costs 2 less.\"",
         "Rarity": "Rare",
         "Unique": true,
         "Artist": "Aitor Prieto",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/006.png",
-        "BackArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/006-b.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/006.png"
     },
     {
         "Set": "SHD",
@@ -207,13 +207,13 @@
         "FrontText": "Action [{{Exhaust}}]: Attack with a unit that costs 3 or less. If it's attacking a unit, it gets +1/+0 for this attack.",
         "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader. (Flip him, ready him, and move him to the ground arena.)",
         "DoubleSided": true,
+        "BackArt": "https://cdn.swu-db.com/images/cards/SHD/007-b.png",
         "BackText": "OVERWHELM (When attacking an enemy unit, deal excess damage to the opponent's base.)\nEach friendly unit that costs 3 or less gets +1/+0 and gains OVERWHELM while attacking an enemy unit.",
         "Rarity": "Special",
         "Unique": true,
         "Artist": "Eric Hibbeler",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/007.png",
-        "BackArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/007-b.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/007.png"
     },
     {
         "Set": "SHD",
@@ -237,13 +237,13 @@
         "FrontText": "When you play a unit that has 1 or more KEYWORDS: You may exhaust this leader. If you do, give a friendly unit +1/+0 for this phase.",
         "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader.",
         "DoubleSided": true,
+        "BackArt": "https://cdn.swu-db.com/images/cards/SHD/008-b.png",
         "BackText": "Each other friendly unit that has 1 or more KEYWORDS gets +1/+0.",
         "Rarity": "Common",
         "Unique": true,
         "Artist": "Guillaume Ospital",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/008.png",
-        "BackArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/008-b.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/008.png"
     },
     {
         "Set": "SHD",
@@ -268,13 +268,13 @@
         "FrontText": "Action [{{C=1}}, {{Exhaust}}]: Reveal a resource you control. If it shares a name with a friendly unique unit, return the resource to its owner's hand and put the top card of your deck into play as a resource.",
         "EpicAction": "Epic Action: If you control 7 or more resources, deploy this leader.",
         "DoubleSided": true,
+        "BackArt": "https://cdn.swu-db.com/images/cards/SHD/009-b.png",
         "BackText": "OVERWHELM\nOn Attack: You may reveal a resource you control. If it shares a name with a friendly unique unit, return the resource to its owner's hand and put the top card of your deck into play as a resource.",
         "Rarity": "Rare",
         "Unique": true,
         "Artist": "Mickael Balloul",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/009.png",
-        "BackArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/009-b.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/009.png"
     },
     {
         "Set": "SHD",
@@ -299,13 +299,13 @@
         "FrontText": "Action [{{Exhaust}}]: Deal 1 damage to a unit with a BOUNTY. You may give it +1/+0 for this phase.",
         "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader.",
         "DoubleSided": true,
+        "BackArt": "https://cdn.swu-db.com/images/cards/SHD/010-b.png",
         "BackText": "When you collect a BOUNTY: You may collect that BOUNTY again. Use this ability only once each round.",
         "Rarity": "Common",
         "Unique": true,
         "Artist": "Amélie Hutt",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/010.png",
-        "BackArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/010-b.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/010.png"
     },
     {
         "Set": "SHD",
@@ -330,13 +330,13 @@
         "FrontText": "Action [{{Exhaust}}, discard a card from your hand]: Give a unit +2/+0 for this phase.",
         "EpicAction": "Epic Action: If you control 4 or more resources, deploy this leader.",
         "DoubleSided": true,
+        "BackArt": "https://cdn.swu-db.com/images/cards/SHD/011-b.png",
         "BackText": "This unit gets -1/-0 for each card in your hand.",
         "Rarity": "Rare",
         "Unique": true,
         "Artist": "Guillaume Ospital",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/011.png",
-        "BackArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/011-b.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/011.png"
     },
     {
         "Set": "SHD",
@@ -360,13 +360,13 @@
         "FrontText": "Action [{{Exhaust}}]: If you attacked with a Mandalorian unit this phase, deal 1 damage to a unit.",
         "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader.",
         "DoubleSided": true,
+        "BackArt": "https://cdn.swu-db.com/images/cards/SHD/012-b.png",
         "BackText": "On Attack: You may deal 1 damage to a unit. If you attacked with another Mandalorian unit this phase, you may deal 1 damage to a unit. (The same unit or a different unit.)",
         "Rarity": "Rare",
         "Unique": true,
         "Artist": "David Buisán",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/012.png",
-        "BackArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/012-b.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/012.png"
     },
     {
         "Set": "SHD",
@@ -390,13 +390,13 @@
         "FrontText": "Action [{{Exhaust}}]: Play a unit from your hand. It costs 1 less. Deal 2 damage to it.",
         "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader.",
         "DoubleSided": true,
+        "BackArt": "https://cdn.swu-db.com/images/cards/SHD/013-b.png",
         "BackText": "Action: Play a unit from your hand. It costs 1 less. Deal 2 damage to it.",
         "Rarity": "Common",
         "Unique": true,
         "Artist": "Amélie Hutt",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/013.png",
-        "BackArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/013-b.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/013.png"
     },
     {
         "Set": "SHD",
@@ -421,13 +421,13 @@
         "FrontText": "When you play an Underworld card: You may exhaust this leader. If you do, an opponent chooses a unit they control. Deal 1 damage to it.",
         "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader.",
         "DoubleSided": true,
+        "BackArt": "https://cdn.swu-db.com/images/cards/SHD/014-b.png",
         "BackText": "RAID 2 (This unit gets +2/+0 while attacking.)\nWhen you play an Underworld card: You may choose an opponent. They choose a unit they control. Deal 2 damage to it. Use this ability only once each round.",
         "Rarity": "Common",
         "Unique": true,
         "Artist": "Marc Escachx",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/014.png",
-        "BackArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/014-b.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/014.png"
     },
     {
         "Set": "SHD",
@@ -451,13 +451,13 @@
         "FrontText": "When the regroup phase starts: Discard a card from your deck.",
         "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader.",
         "DoubleSided": true,
+        "BackArt": "https://cdn.swu-db.com/images/cards/SHD/015-b.png",
         "BackText": "While there are 5 or more different costs among cards in your discard pile, this unit gets +3/+0.\nWhen Deployed: Choose 3 cards in your discard pile with different names. If you do, return 1 of them at random to your hand.",
         "Rarity": "Rare",
         "Unique": true,
         "Artist": "Sandra Chlewińska",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/015.png",
-        "BackArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/015-b.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/015.png"
     },
     {
         "Set": "SHD",
@@ -481,13 +481,13 @@
         "FrontText": "Action [{C=1}, {{Exhaust}}]: Play a unit that costs 4 or less from your hand (paying its cost). Give it AMBUSH for this phase. (After you play the unit, it may ready and attack an enemy unit.)",
         "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader.",
         "DoubleSided": true,
+        "BackArt": "https://cdn.swu-db.com/images/cards/SHD/016-b.png",
         "BackText": "SABOTEUR (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)\nAction: Play a unit that costs 4 or less from your hand (paying its cost.) Give it AMBUSH for this phase.",
         "Rarity": "Common",
         "Unique": true,
         "Artist": "Amélie Hutt",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/016.png",
-        "BackArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/016-b.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/016.png"
     },
     {
         "Set": "SHD",
@@ -511,13 +511,13 @@
         "FrontText": "Action [{{Exhaust}}]: Play a card using SMUGGLE. It costs 2 less. Defeat a resource you own and control.",
         "EpicAction": "Epic Action: If you control 4 or more resources, deploy this leader.",
         "DoubleSided": true,
+        "BackArt": "https://cdn.swu-db.com/images/cards/SHD/017-b.png",
         "BackText": "Action: Play a card using SMUGGLE. It costs 2 less. Defeat a resource you own and control. Use this ability only once each round.",
         "Rarity": "Rare",
         "Unique": true,
         "Artist": "Eric Hibbeler",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/017.png",
-        "BackArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/017-b.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/017.png"
     },
     {
         "Set": "SHD",
@@ -542,13 +542,13 @@
         "FrontText": "When you play an upgrade: You may exhaust this leader. If you do, exhaust an enemy unit with 4 or less remaining HP.",
         "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader. (Flip him, ready him, and move him to the ground arena.)",
         "DoubleSided": true,
+        "BackArt": "https://cdn.swu-db.com/images/cards/SHD/018-b.png",
         "BackText": "When you play an upgrade: You may exhaust an enemy unit with 6 or less remaining HP.",
         "Rarity": "Special",
         "Unique": true,
         "Artist": "Eric Hibbeler",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/018.png",
-        "BackArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/018-b.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/018.png"
     },
     {
         "Set": "SHD",
@@ -564,8 +564,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Amélie Hutt",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/019.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/019.png"
     },
     {
         "Set": "SHD",
@@ -581,8 +581,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Natcha Ngamtweerat",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/020.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/020.png"
     },
     {
         "Set": "SHD",
@@ -598,8 +598,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Rocio Espin",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/021.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/021.png"
     },
     {
         "Set": "SHD",
@@ -615,8 +615,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Roxana Karpatvolgyi",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/022.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/022.png"
     },
     {
         "Set": "SHD",
@@ -632,8 +632,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Adrien Girod",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/023.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/023.png"
     },
     {
         "Set": "SHD",
@@ -649,8 +649,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Amélie Hutt",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/024.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/024.png"
     },
     {
         "Set": "SHD",
@@ -666,8 +666,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Adrien Girod",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/025.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/025.png"
     },
     {
         "Set": "SHD",
@@ -683,8 +683,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Tyler Edlin",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/026.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/026.png"
     },
     {
         "Set": "SHD",
@@ -713,8 +713,8 @@
             "Grit"
         ],
         "Artist": "Joshua Carson",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/027.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/027.png"
     },
     {
         "Set": "SHD",
@@ -740,8 +740,8 @@
         "Rarity": "Rare",
         "Unique": true,
         "Artist": "David Buisán",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/028.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/028.png"
     },
     {
         "Set": "SHD",
@@ -769,8 +769,8 @@
             "Sentinel"
         ],
         "Artist": "Omercan Cirit",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/029.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/029.png"
     },
     {
         "Set": "SHD",
@@ -796,8 +796,8 @@
         "Rarity": "Special",
         "Unique": false,
         "Artist": "Borja Pindado",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/184.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/030.png"
     },
     {
         "Set": "SHD",
@@ -828,8 +828,8 @@
             "Shielded"
         ],
         "Artist": "Ash Pierce",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/031.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/031.png"
     },
     {
         "Set": "SHD",
@@ -858,8 +858,8 @@
             "Smuggle"
         ],
         "Artist": "Amad Mir",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/032.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/032.png"
     },
     {
         "Set": "SHD",
@@ -889,8 +889,8 @@
             "Grit"
         ],
         "Artist": "Sandra Chlewińska",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/033.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/033.png"
     },
     {
         "Set": "SHD",
@@ -921,8 +921,8 @@
             "Shielded"
         ],
         "Artist": "Kyle Petchock",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/034.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/034.png"
     },
     {
         "Set": "SHD",
@@ -952,8 +952,8 @@
             "Sentinel"
         ],
         "Artist": "Ignacio Bazan Lazcano",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/035.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/035.png"
     },
     {
         "Set": "SHD",
@@ -985,8 +985,8 @@
             "Smuggle"
         ],
         "Artist": "Mickael Balloul",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/036.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/036.png"
     },
     {
         "Set": "SHD",
@@ -1017,8 +1017,8 @@
             "Sentinel"
         ],
         "Artist": "Amad Mir",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/037.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/037.png"
     },
     {
         "Set": "SHD",
@@ -1040,8 +1040,8 @@
         "Rarity": "Uncommon",
         "Unique": false,
         "Artist": "Eslam AboShady",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/038.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/038.png"
     },
     {
         "Set": "SHD",
@@ -1061,8 +1061,8 @@
         "Rarity": "Special",
         "Unique": false,
         "Artist": "Amad Mir",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/039.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/039.png"
     },
     {
         "Set": "SHD",
@@ -1088,8 +1088,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Erik Ly",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/040.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/040.png"
     },
     {
         "Set": "SHD",
@@ -1118,8 +1118,8 @@
             "Restore"
         ],
         "Artist": "Luke Harrington",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/041.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/041.png"
     },
     {
         "Set": "SHD",
@@ -1149,8 +1149,8 @@
             "Sentinel"
         ],
         "Artist": "André Mealha",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/042.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/042.png"
     },
     {
         "Set": "SHD",
@@ -1179,8 +1179,8 @@
             "Shielded"
         ],
         "Artist": "Ario Murti",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/043.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/043.png"
     },
     {
         "Set": "SHD",
@@ -1211,8 +1211,8 @@
             "Restore"
         ],
         "Artist": "Amélie Hutt",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/044.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/044.png"
     },
     {
         "Set": "SHD",
@@ -1241,8 +1241,8 @@
             "Shielded"
         ],
         "Artist": "Denis Medri",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/045.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/045.png"
     },
     {
         "Set": "SHD",
@@ -1269,8 +1269,8 @@
         "Rarity": "Legendary",
         "Unique": true,
         "Artist": "Ann Maulina",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/046.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/046.png"
     },
     {
         "Set": "SHD",
@@ -1296,8 +1296,8 @@
         "Rarity": "Uncommon",
         "Unique": true,
         "Artist": "Hoan Nguyen",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/047.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/047.png"
     },
     {
         "Set": "SHD",
@@ -1325,8 +1325,8 @@
             "Grit"
         ],
         "Artist": "Leonardo Giammichele",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/048.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/048.png"
     },
     {
         "Set": "SHD",
@@ -1356,8 +1356,8 @@
             "Sentinel"
         ],
         "Artist": "Mickael Balloul",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/049.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/049.png"
     },
     {
         "Set": "SHD",
@@ -1388,8 +1388,8 @@
             "Smuggle"
         ],
         "Artist": "Leonardo Giammichele",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/050.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/050.png"
     },
     {
         "Set": "SHD",
@@ -1409,8 +1409,8 @@
         "Rarity": "Rare",
         "Unique": false,
         "Artist": "Amélie Hutt",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/051.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/051.png"
     },
     {
         "Set": "SHD",
@@ -1441,8 +1441,8 @@
             "Smuggle"
         ],
         "Artist": "Omercan Cirit",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/052.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/052.png"
     },
     {
         "Set": "SHD",
@@ -1464,8 +1464,8 @@
         "Rarity": "Legendary",
         "Unique": false,
         "Artist": "Ario Anindito & Annalisa Leoni",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/053.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/053.png"
     },
     {
         "Set": "SHD",
@@ -1485,8 +1485,8 @@
         "Rarity": "Uncommon",
         "Unique": false,
         "Artist": "Joshua Carson",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/054.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/054.png"
     },
     {
         "Set": "SHD",
@@ -1513,8 +1513,8 @@
             "Restore"
         ],
         "Artist": "Roxana Karpatvogyi",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/055.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/055.png"
     },
     {
         "Set": "SHD",
@@ -1538,8 +1538,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Eslam AboShady",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/056.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/056.png"
     },
     {
         "Set": "SHD",
@@ -1565,8 +1565,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Fernando Correa",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/057.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/057.png"
     },
     {
         "Set": "SHD",
@@ -1594,8 +1594,8 @@
             "Bounty"
         ],
         "Artist": "Kyle Petchock",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/058.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/058.png"
     },
     {
         "Set": "SHD",
@@ -1621,8 +1621,8 @@
         "Rarity": "Uncommon",
         "Unique": true,
         "Artist": "Alex Chen",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/059.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/059.png"
     },
     {
         "Set": "SHD",
@@ -1647,8 +1647,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Fernando Correa",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/060.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/060.png"
     },
     {
         "Set": "SHD",
@@ -1675,8 +1675,8 @@
             "Grit"
         ],
         "Artist": "Joshua Carson",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/061.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/061.png"
     },
     {
         "Set": "SHD",
@@ -1703,8 +1703,8 @@
             "Sentinel"
         ],
         "Artist": "Marc Escachx",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/062.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/062.png"
     },
     {
         "Set": "SHD",
@@ -1732,8 +1732,8 @@
             "Sentinel"
         ],
         "Artist": "Christian Papazoglakis",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/063.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/063.png"
     },
     {
         "Set": "SHD",
@@ -1749,7 +1749,7 @@
             "TRANSPORT"
         ],
         "Arenas": [
-            "Ground"
+            "Space"
         ],
         "Cost": "5",
         "Power": "4",
@@ -1759,8 +1759,8 @@
         "Rarity": "Rare",
         "Unique": false,
         "Artist": "Fernando Correa",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/064.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/064.png"
     },
     {
         "Set": "SHD",
@@ -1789,8 +1789,8 @@
             "Smuggle"
         ],
         "Artist": "Fernando Correa",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/065.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/065.png"
     },
     {
         "Set": "SHD",
@@ -1818,8 +1818,8 @@
             "Shielded"
         ],
         "Artist": "Thomas Wievegg",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/066.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/066.png"
     },
     {
         "Set": "SHD",
@@ -1844,8 +1844,8 @@
         "Rarity": "Uncommon",
         "Unique": true,
         "Artist": "Erik Ly",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/067.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/067.png"
     },
     {
         "Set": "SHD",
@@ -1867,8 +1867,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Denis Medri",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/068.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/068.png"
     },
     {
         "Set": "SHD",
@@ -1889,8 +1889,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Kevin Libranda",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/069.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/069.png"
     },
     {
         "Set": "SHD",
@@ -1911,8 +1911,8 @@
         "Rarity": "Special",
         "Unique": false,
         "Artist": "Joshua Carson",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/070.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/070.png"
     },
     {
         "Set": "SHD",
@@ -1934,8 +1934,8 @@
         "Rarity": "Uncommon",
         "Unique": false,
         "Artist": "Amélie Hutt",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/071.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/071.png"
     },
     {
         "Set": "SHD",
@@ -1957,8 +1957,8 @@
         "Rarity": "Rare",
         "Unique": false,
         "Artist": "Kyle Petchock",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/072.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/072.png"
     },
     {
         "Set": "SHD",
@@ -1980,8 +1980,8 @@
         "Rarity": "Rare",
         "Unique": false,
         "Artist": "Christian Papazoglakis",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/073.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/073.png"
     },
     {
         "Set": "SHD",
@@ -2004,8 +2004,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Arthur Mougne",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/074.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/074.png"
     },
     {
         "Set": "SHD",
@@ -2024,8 +2024,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Eslam Aboshady",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/075.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/075.png"
     },
     {
         "Set": "SHD",
@@ -2044,8 +2044,8 @@
         "Rarity": "Uncommon",
         "Unique": false,
         "Artist": "Alex Chen",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/076.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/076.png"
     },
     {
         "Set": "SHD",
@@ -2064,8 +2064,8 @@
         "Rarity": "Rare",
         "Unique": false,
         "Artist": "Amélie Hutt",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/077.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/077.png"
     },
     {
         "Set": "SHD",
@@ -2084,8 +2084,8 @@
         "Rarity": "Uncommon",
         "Unique": false,
         "Artist": "Ario Murti",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/078.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/078.png"
     },
     {
         "Set": "SHD",
@@ -2104,8 +2104,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "David Nash",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/079.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/079.png"
     },
     {
         "Set": "SHD",
@@ -2132,8 +2132,8 @@
         "Rarity": "Uncommon",
         "Unique": true,
         "Artist": "Aitor Prieto",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/080.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/080.png"
     },
     {
         "Set": "SHD",
@@ -2160,8 +2160,8 @@
         "Rarity": "Special",
         "Unique": true,
         "Artist": "Eric Hibbeler",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/081.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/081.png"
     },
     {
         "Set": "SHD",
@@ -2188,8 +2188,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Francois Cannels",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/082.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/082.png"
     },
     {
         "Set": "SHD",
@@ -2215,8 +2215,8 @@
         "Rarity": "Special",
         "Unique": false,
         "Artist": "Milos Slavkovic",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/083.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/083.png"
     },
     {
         "Set": "SHD",
@@ -2246,8 +2246,8 @@
             "Sentinel"
         ],
         "Artist": "Marc Escachx",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/084.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/084.png"
     },
     {
         "Set": "SHD",
@@ -2272,8 +2272,8 @@
         "Rarity": "Special",
         "Unique": false,
         "Artist": "Denis Medri",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/085.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/085.png"
     },
     {
         "Set": "SHD",
@@ -2301,8 +2301,8 @@
             "Smuggle"
         ],
         "Artist": "Omercan Cirit",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/086.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/086.png"
     },
     {
         "Set": "SHD",
@@ -2330,8 +2330,8 @@
         "Rarity": "Uncommon",
         "Unique": true,
         "Artist": "Mickael Balloul",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/087.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/087.png"
     },
     {
         "Set": "SHD",
@@ -2357,8 +2357,8 @@
         "Rarity": "Rare",
         "Unique": true,
         "Artist": "Joshua Carson",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/088.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/088.png"
     },
     {
         "Set": "SHD",
@@ -2389,8 +2389,8 @@
             "Smuggle"
         ],
         "Artist": "Jake Parker",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/089.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/089.png"
     },
     {
         "Set": "SHD",
@@ -2421,8 +2421,8 @@
             "Overwhelm"
         ],
         "Artist": "Amad Mir",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/090.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/090.png"
     },
     {
         "Set": "SHD",
@@ -2449,8 +2449,8 @@
         "Rarity": "Uncommon",
         "Unique": true,
         "Artist": "Leonardo Giammichele",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/091.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/091.png"
     },
     {
         "Set": "SHD",
@@ -2478,8 +2478,8 @@
         "Rarity": "Legendary",
         "Unique": true,
         "Artist": "Francois Cannels",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/092.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/092.png"
     },
     {
         "Set": "SHD",
@@ -2499,8 +2499,8 @@
         "Rarity": "Uncommon",
         "Unique": false,
         "Artist": "James Daly",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/093.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/093.png"
     },
     {
         "Set": "SHD",
@@ -2521,8 +2521,8 @@
         "Rarity": "Rare",
         "Unique": false,
         "Artist": "Lenka Šimečková",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/094.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/094.png"
     },
     {
         "Set": "SHD",
@@ -2552,8 +2552,8 @@
             "Restore"
         ],
         "Artist": "Markus Lenz",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/095.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/095.png"
     },
     {
         "Set": "SHD",
@@ -2579,8 +2579,8 @@
         "Rarity": "Rare",
         "Unique": true,
         "Artist": "Marc Escachx",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/096.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/096.png"
     },
     {
         "Set": "SHD",
@@ -2608,8 +2608,8 @@
             "Smuggle"
         ],
         "Artist": "Kevin Libranda",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/097.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/097.png"
     },
     {
         "Set": "SHD",
@@ -2639,8 +2639,8 @@
             "Restore"
         ],
         "Artist": "Erik Ly",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/098.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/098.png"
     },
     {
         "Set": "SHD",
@@ -2670,8 +2670,8 @@
             "Restore"
         ],
         "Artist": "Amad Mir",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/099.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/099.png"
     },
     {
         "Set": "SHD",
@@ -2700,8 +2700,8 @@
             "Raid"
         ],
         "Artist": "Mickael Balloul",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/100.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/100.png"
     },
     {
         "Set": "SHD",
@@ -2728,8 +2728,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Amad Mir",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/101.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/101.png"
     },
     {
         "Set": "SHD",
@@ -2760,8 +2760,8 @@
             "Ambush"
         ],
         "Artist": "Christian Papazoglakis",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/102.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/102.png"
     },
     {
         "Set": "SHD",
@@ -2788,8 +2788,8 @@
         "Rarity": "Rare",
         "Unique": true,
         "Artist": "Tomas Oleksak",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/103.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/103.png"
     },
     {
         "Set": "SHD",
@@ -2811,8 +2811,8 @@
         "Rarity": "Rare",
         "Unique": false,
         "Artist": "Sandra Chlewińska",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/104.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/104.png"
     },
     {
         "Set": "SHD",
@@ -2832,8 +2832,8 @@
         "Rarity": "Uncommon",
         "Unique": false,
         "Artist": "Amélie Hutt",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/105.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/105.png"
     },
     {
         "Set": "SHD",
@@ -2853,8 +2853,8 @@
         "Rarity": "Legendary",
         "Unique": false,
         "Artist": "Amad Mir",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/106.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/106.png"
     },
     {
         "Set": "SHD",
@@ -2882,8 +2882,8 @@
             "Smuggle"
         ],
         "Artist": "Amad Mir",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/107.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/107.png"
     },
     {
         "Set": "SHD",
@@ -2903,8 +2903,8 @@
         "Rarity": "Uncommon",
         "Unique": false,
         "Artist": "Ario Murti",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/108.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/108.png"
     },
     {
         "Set": "SHD",
@@ -2924,8 +2924,8 @@
         "Rarity": "Legendary",
         "Unique": false,
         "Artist": "Amad Mir",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/109.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/109.png"
     },
     {
         "Set": "SHD",
@@ -2949,8 +2949,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Amad Mir",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/110.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/110.png"
     },
     {
         "Set": "SHD",
@@ -2979,8 +2979,8 @@
             "Smuggle"
         ],
         "Artist": "Mark Zhang",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/111.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/111.png"
     },
     {
         "Set": "SHD",
@@ -3007,8 +3007,8 @@
             "Sentinel"
         ],
         "Artist": "Omercan Cirit",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/112.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/112.png"
     },
     {
         "Set": "SHD",
@@ -3035,8 +3035,8 @@
             "Smuggle"
         ],
         "Artist": "Denis Medri",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/113.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/113.png"
     },
     {
         "Set": "SHD",
@@ -3061,8 +3061,8 @@
         "Rarity": "Uncommon",
         "Unique": false,
         "Artist": "David Buisán",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/114.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/114.png"
     },
     {
         "Set": "SHD",
@@ -3088,8 +3088,8 @@
         "Rarity": "Rare",
         "Unique": true,
         "Artist": "Ario Murti",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/115.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/115.png"
     },
     {
         "Set": "SHD",
@@ -3118,8 +3118,8 @@
             "Bounty"
         ],
         "Artist": "Sebastián Guidobono",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/116.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/116.png"
     },
     {
         "Set": "SHD",
@@ -3143,8 +3143,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Ash Pierce",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/117.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/117.png"
     },
     {
         "Set": "SHD",
@@ -3172,8 +3172,8 @@
             "Overwhelm"
         ],
         "Artist": "Fernando Correa",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/118.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/118.png"
     },
     {
         "Set": "SHD",
@@ -3201,8 +3201,8 @@
             "Smuggle"
         ],
         "Artist": "Eslam AboShady",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/119.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/119.png"
     },
     {
         "Set": "SHD",
@@ -3226,8 +3226,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Leonardo Giammichele",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/120.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/120.png"
     },
     {
         "Set": "SHD",
@@ -3256,8 +3256,8 @@
             "Overwhelm"
         ],
         "Artist": "Elena Skitalets",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/121.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/121.png"
     },
     {
         "Set": "SHD",
@@ -3285,8 +3285,8 @@
             "Ambush"
         ],
         "Artist": "French Carlomagno",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/122.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/122.png"
     },
     {
         "Set": "SHD",
@@ -3308,8 +3308,8 @@
         "Rarity": "Uncommon",
         "Unique": false,
         "Artist": "Ignacio Bazan Lazcano",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/123.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/123.png"
     },
     {
         "Set": "SHD",
@@ -3330,8 +3330,8 @@
         "Rarity": "Rare",
         "Unique": false,
         "Artist": "Christian Papazoglakis",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/124.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/124.png"
     },
     {
         "Set": "SHD",
@@ -3353,8 +3353,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Ario Murti",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/125.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/125.png"
     },
     {
         "Set": "SHD",
@@ -3377,8 +3377,8 @@
         "Rarity": "Legendary",
         "Unique": true,
         "Artist": "Amélie Hutt",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/126.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/126.png"
     },
     {
         "Set": "SHD",
@@ -3397,8 +3397,8 @@
         "Rarity": "Uncommon",
         "Unique": false,
         "Artist": "Amad Mir",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/127.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/127.png"
     },
     {
         "Set": "SHD",
@@ -3417,8 +3417,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Kyle Petchock",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/128.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/128.png"
     },
     {
         "Set": "SHD",
@@ -3437,8 +3437,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Denis Medri",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/129.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/129.png"
     },
     {
         "Set": "SHD",
@@ -3457,8 +3457,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Jake Parker",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/130.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/130.png"
     },
     {
         "Set": "SHD",
@@ -3477,8 +3477,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Guillaume Ospital",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/131.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/131.png"
     },
     {
         "Set": "SHD",
@@ -3497,8 +3497,8 @@
         "Rarity": "Rare",
         "Unique": false,
         "Artist": "French Carlomagno",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/132.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/132.png"
     },
     {
         "Set": "SHD",
@@ -3525,8 +3525,8 @@
         "Rarity": "Uncommon",
         "Unique": true,
         "Artist": "Stefano Landini",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/133.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/133.png"
     },
     {
         "Set": "SHD",
@@ -3556,8 +3556,8 @@
             "Saboteur"
         ],
         "Artist": "Amad Mir",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/134.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/134.png"
     },
     {
         "Set": "SHD",
@@ -3585,8 +3585,8 @@
         "Rarity": "Legendary",
         "Unique": true,
         "Artist": "Francois Cannels",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/135.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/135.png"
     },
     {
         "Set": "SHD",
@@ -3616,8 +3616,8 @@
             "Overwhelm"
         ],
         "Artist": "Amad Mir",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/136.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/136.png"
     },
     {
         "Set": "SHD",
@@ -3645,8 +3645,8 @@
         "Rarity": "Uncommon",
         "Unique": true,
         "Artist": "Fernando Correa",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/137.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/137.png"
     },
     {
         "Set": "SHD",
@@ -3676,8 +3676,8 @@
             "Overwhelm"
         ],
         "Artist": "Alex Chen",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/138.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/138.png"
     },
     {
         "Set": "SHD",
@@ -3705,8 +3705,8 @@
         "Rarity": "Uncommon",
         "Unique": true,
         "Artist": "Marc Escachx",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/139.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/139.png"
     },
     {
         "Set": "SHD",
@@ -3735,8 +3735,8 @@
             "Overwhelm"
         ],
         "Artist": "Omercan Cirit",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/140.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/140.png"
     },
     {
         "Set": "SHD",
@@ -3763,8 +3763,8 @@
         "Rarity": "Legendary",
         "Unique": true,
         "Artist": "Amélie Hutt",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/141.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/141.png"
     },
     {
         "Set": "SHD",
@@ -3791,8 +3791,8 @@
         "Rarity": "Rare",
         "Unique": true,
         "Artist": "Markus Lenz",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/142.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/142.png"
     },
     {
         "Set": "SHD",
@@ -3814,8 +3814,8 @@
         "Rarity": "Rare",
         "Unique": false,
         "Artist": "James Daly",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/143.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/143.png"
     },
     {
         "Set": "SHD",
@@ -3835,8 +3835,8 @@
         "Rarity": "Rare",
         "Unique": false,
         "Artist": "Cristina Laviña",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/144.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/144.png"
     },
     {
         "Set": "SHD",
@@ -3856,8 +3856,8 @@
         "Rarity": "Uncommon",
         "Unique": false,
         "Artist": "Borja Pindado",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/145.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/145.png"
     },
     {
         "Set": "SHD",
@@ -3885,8 +3885,8 @@
             "Grit"
         ],
         "Artist": "Mickael Balloul",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/146.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/146.png"
     },
     {
         "Set": "SHD",
@@ -3917,8 +3917,8 @@
             "Saboteur"
         ],
         "Artist": "Amélie Hutt",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/147.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/147.png"
     },
     {
         "Set": "SHD",
@@ -3947,8 +3947,8 @@
             "Smuggle"
         ],
         "Artist": "Sandra Chlewińska",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/148.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/148.png"
     },
     {
         "Set": "SHD",
@@ -3977,8 +3977,8 @@
             "Smuggle"
         ],
         "Artist": "French Carlomagno",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/149.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/149.png"
     },
     {
         "Set": "SHD",
@@ -4005,8 +4005,8 @@
         "Rarity": "Rare",
         "Unique": true,
         "Artist": "Kevin Libranda",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/150.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/150.png"
     },
     {
         "Set": "SHD",
@@ -4036,8 +4036,8 @@
             "Saboteur"
         ],
         "Artist": "Christian Papazoglakis",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/151.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/151.png"
     },
     {
         "Set": "SHD",
@@ -4064,8 +4064,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Fernando Correa",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/152.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/152.png"
     },
     {
         "Set": "SHD",
@@ -4091,8 +4091,8 @@
         "Rarity": "Legendary",
         "Unique": true,
         "Artist": "Amélie Hutt",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/153.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/153.png"
     },
     {
         "Set": "SHD",
@@ -4122,8 +4122,8 @@
             "Overwhelm"
         ],
         "Artist": "Stefano Landini",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/154.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/154.png"
     },
     {
         "Set": "SHD",
@@ -4145,8 +4145,8 @@
         "Rarity": "Rare",
         "Unique": false,
         "Artist": "Kevin Libranda",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/155.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/155.png"
     },
     {
         "Set": "SHD",
@@ -4166,8 +4166,8 @@
         "Rarity": "Uncommon",
         "Unique": false,
         "Artist": "Denis Medri",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/156.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/156.png"
     },
     {
         "Set": "SHD",
@@ -4194,8 +4194,8 @@
         "Rarity": "Uncommon",
         "Unique": true,
         "Artist": "Rebecca Farrow",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/157.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/157.png"
     },
     {
         "Set": "SHD",
@@ -4223,8 +4223,8 @@
             "Overwhelm"
         ],
         "Artist": "David Nash",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/158.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/158.png"
     },
     {
         "Set": "SHD",
@@ -4244,8 +4244,8 @@
         "Rarity": "Rare",
         "Unique": false,
         "Artist": "Amélie Hutt",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/159.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/159.png"
     },
     {
         "Set": "SHD",
@@ -4272,8 +4272,8 @@
             "Smuggle"
         ],
         "Artist": "Eslam Aboshady",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/160.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/160.png"
     },
     {
         "Set": "SHD",
@@ -4302,8 +4302,8 @@
             "Bounty"
         ],
         "Artist": "French Carlomagno",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/161.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/161.png"
     },
     {
         "Set": "SHD",
@@ -4331,8 +4331,8 @@
             "Saboteur"
         ],
         "Artist": "Hoan Nguyen",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/162.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/162.png"
     },
     {
         "Set": "SHD",
@@ -4357,8 +4357,8 @@
         "Rarity": "Rare",
         "Unique": true,
         "Artist": "Denis Medri",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/163.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/163.png"
     },
     {
         "Set": "SHD",
@@ -4384,8 +4384,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Christian Papazoglakis",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/164.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/164.png"
     },
     {
         "Set": "SHD",
@@ -4415,8 +4415,8 @@
             "Saboteur"
         ],
         "Artist": "Fernando Correa",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/165.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/165.png"
     },
     {
         "Set": "SHD",
@@ -4442,8 +4442,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Christian Papazoglakis",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/166.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/166.png"
     },
     {
         "Set": "SHD",
@@ -4470,8 +4470,8 @@
             "Bounty"
         ],
         "Artist": "Denis Medri",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/167.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/167.png"
     },
     {
         "Set": "SHD",
@@ -4498,8 +4498,8 @@
             "Raid"
         ],
         "Artist": "Leonardo Giammichele",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/168.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/168.png"
     },
     {
         "Set": "SHD",
@@ -4528,8 +4528,8 @@
             "Raid"
         ],
         "Artist": "Kevin Libranda",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/169.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/169.png"
     },
     {
         "Set": "SHD",
@@ -4555,8 +4555,8 @@
         "Rarity": "Uncommon",
         "Unique": true,
         "Artist": "James Daly",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/170.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/170.png"
     },
     {
         "Set": "SHD",
@@ -4583,8 +4583,8 @@
             "Grit"
         ],
         "Artist": "Amad Mir",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/171.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/171.png"
     },
     {
         "Set": "SHD",
@@ -4608,8 +4608,8 @@
         "Rarity": "Legendary",
         "Unique": false,
         "Artist": "Leonardo Giammichele",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/172.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/172.png"
     },
     {
         "Set": "SHD",
@@ -4631,8 +4631,8 @@
         "Rarity": "Uncommon",
         "Unique": false,
         "Artist": "Omercan Cirit",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/173.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/173.png"
     },
     {
         "Set": "SHD",
@@ -4654,8 +4654,8 @@
         "Rarity": "Rare",
         "Unique": false,
         "Artist": "Eslam AboShady",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/174.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/174.png"
     },
     {
         "Set": "SHD",
@@ -4677,8 +4677,8 @@
         "Rarity": "Uncommon",
         "Unique": false,
         "Artist": "Eslam Aboshady",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/175.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/175.png"
     },
     {
         "Set": "SHD",
@@ -4700,8 +4700,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Aitor Prieto",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/176.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/176.png"
     },
     {
         "Set": "SHD",
@@ -4724,8 +4724,8 @@
         "Rarity": "Rare",
         "Unique": false,
         "Artist": "Arthur Mougne",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/177.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/177.png"
     },
     {
         "Set": "SHD",
@@ -4744,8 +4744,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Ario Murti",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/178.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/178.png"
     },
     {
         "Set": "SHD",
@@ -4764,8 +4764,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Liana Anatolievich",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/179.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/179.png"
     },
     {
         "Set": "SHD",
@@ -4784,8 +4784,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Omercan Cirit",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/180.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/180.png"
     },
     {
         "Set": "SHD",
@@ -4804,8 +4804,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Denis Medri",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/181.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/181.png"
     },
     {
         "Set": "SHD",
@@ -4824,8 +4824,8 @@
         "Rarity": "Uncommon",
         "Unique": false,
         "Artist": "Eric Hibbeler",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/182.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/182.png"
     },
     {
         "Set": "SHD",
@@ -4850,8 +4850,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Omercan Cirit",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/183.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/183.png"
     },
     {
         "Set": "SHD",
@@ -4880,8 +4880,8 @@
             "Smuggle"
         ],
         "Artist": "Leonardo Giammichele",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/184.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/184.png"
     },
     {
         "Set": "SHD",
@@ -4911,8 +4911,8 @@
             "Shielded"
         ],
         "Artist": "David Nash",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/185.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/185.png"
     },
     {
         "Set": "SHD",
@@ -4941,8 +4941,8 @@
             "Shielded"
         ],
         "Artist": "Amad Mir",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/186.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/186.png"
     },
     {
         "Set": "SHD",
@@ -4972,8 +4972,8 @@
             "Raid"
         ],
         "Artist": "Ignacio Bazan Lazcano",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/187.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/187.png"
     },
     {
         "Set": "SHD",
@@ -5001,8 +5001,8 @@
         "Rarity": "Uncommon",
         "Unique": true,
         "Artist": "Joshua Carson",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/188.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/188.png"
     },
     {
         "Set": "SHD",
@@ -5029,8 +5029,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Fernando Correa",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/189.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/189.png"
     },
     {
         "Set": "SHD",
@@ -5049,7 +5049,7 @@
         "Arenas": [
             "Ground"
         ],
-        "Cost": "2",
+        "Cost": "5",
         "Power": "6",
         "HP": "6",
         "FrontText": "Saboteur (When this unit attacks, ignore Sentinel and defeat the defender's Shields.) \nEach friendly unit named 4-LOM gets +1/+1 and gains Saboteur.",
@@ -5060,8 +5060,8 @@
             "Saboteur"
         ],
         "Artist": "Joshua Carson",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/190.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/190.png"
     },
     {
         "Set": "SHD",
@@ -5092,8 +5092,8 @@
             "Raid"
         ],
         "Artist": "André Mealha",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/191.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/191.png"
     },
     {
         "Set": "SHD",
@@ -5119,8 +5119,8 @@
         "Rarity": "Legendary",
         "Unique": true,
         "Artist": "Ario Anindito & Annalisa Leoni",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/192.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/192.png"
     },
     {
         "Set": "SHD",
@@ -5142,8 +5142,8 @@
         "Rarity": "Uncommon",
         "Unique": false,
         "Artist": "Eslam Aboshady",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/193.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/193.png"
     },
     {
         "Set": "SHD",
@@ -5163,8 +5163,8 @@
         "Rarity": "Rare",
         "Unique": false,
         "Artist": "Amad Mir",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/194.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/194.png"
     },
     {
         "Set": "SHD",
@@ -5194,8 +5194,8 @@
             "Bounty"
         ],
         "Artist": "Sebastián Guidobono",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/195.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/195.png"
     },
     {
         "Set": "SHD",
@@ -5221,8 +5221,8 @@
         "Rarity": "Special",
         "Unique": true,
         "Artist": "Milos Slavkovic",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/196.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/196.png"
     },
     {
         "Set": "SHD",
@@ -5252,8 +5252,8 @@
             "Smuggle"
         ],
         "Artist": "Amad Mir",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/197.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/197.png"
     },
     {
         "Set": "SHD",
@@ -5280,8 +5280,8 @@
         "Rarity": "Rare",
         "Unique": true,
         "Artist": "Eric Hibbeler",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/198.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/198.png"
     },
     {
         "Set": "SHD",
@@ -5307,8 +5307,8 @@
         "Rarity": "Uncommon",
         "Unique": false,
         "Artist": "Omercan Cirit",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/199.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/199.png"
     },
     {
         "Set": "SHD",
@@ -5336,8 +5336,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Marc Escachx",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/200.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/200.png"
     },
     {
         "Set": "SHD",
@@ -5365,8 +5365,8 @@
             "Smuggle"
         ],
         "Artist": "Leonardo Giammichele",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/184.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/201.png"
     },
     {
         "Set": "SHD",
@@ -5392,8 +5392,8 @@
         "Rarity": "Rare",
         "Unique": true,
         "Artist": "Amélie Hutt",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/202.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/202.png"
     },
     {
         "Set": "SHD",
@@ -5422,8 +5422,8 @@
             "Smuggle"
         ],
         "Artist": "Guillaume Ospital",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/203.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/203.png"
     },
     {
         "Set": "SHD",
@@ -5455,8 +5455,8 @@
             "Smuggle"
         ],
         "Artist": "Ignacio Bazan Lazcano",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/204.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/204.png"
     },
     {
         "Set": "SHD",
@@ -5476,8 +5476,8 @@
         "Rarity": "Rare",
         "Unique": false,
         "Artist": "French Carlomagno",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/205.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/205.png"
     },
     {
         "Set": "SHD",
@@ -5497,8 +5497,8 @@
         "Rarity": "Uncommon",
         "Unique": false,
         "Artist": "Omercan Cirit",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/206.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/206.png"
     },
     {
         "Set": "SHD",
@@ -5518,8 +5518,8 @@
         "Rarity": "Uncommon",
         "Unique": false,
         "Artist": "French Carlomagno",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/207.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/207.png"
     },
     {
         "Set": "SHD",
@@ -5539,8 +5539,8 @@
         "Rarity": "Legendary",
         "Unique": false,
         "Artist": "Ario Murti",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/208.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/208.png"
     },
     {
         "Set": "SHD",
@@ -5564,8 +5564,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Aitor Prieto",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/209.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/209.png"
     },
     {
         "Set": "SHD",
@@ -5592,8 +5592,8 @@
             "Ambush"
         ],
         "Artist": "Mickael Balloul",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/210.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/210.png"
     },
     {
         "Set": "SHD",
@@ -5620,8 +5620,8 @@
             "Bounty"
         ],
         "Artist": "Sebastián Guidobono",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/211.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/211.png"
     },
     {
         "Set": "SHD",
@@ -5650,8 +5650,8 @@
             "Shielded"
         ],
         "Artist": "Mark Zhang",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/212.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/212.png"
     },
     {
         "Set": "SHD",
@@ -5676,8 +5676,8 @@
         "Rarity": "Legendary",
         "Unique": true,
         "Artist": "Kyle Petchock",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/213.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/213.png"
     },
     {
         "Set": "SHD",
@@ -5702,8 +5702,8 @@
         "Rarity": "Common",
         "Unique": true,
         "Artist": "Aitor Prieto Reyes",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/214.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/214.png"
     },
     {
         "Set": "SHD",
@@ -5732,8 +5732,8 @@
             "Smuggle"
         ],
         "Artist": "Fernando Correa",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/215.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/215.png"
     },
     {
         "Set": "SHD",
@@ -5761,8 +5761,8 @@
             "Ambush"
         ],
         "Artist": "Omercan Cirit",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/216.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/216.png"
     },
     {
         "Set": "SHD",
@@ -5790,8 +5790,8 @@
             "Smuggle"
         ],
         "Artist": "Afif Khaled",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/217.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/217.png"
     },
     {
         "Set": "SHD",
@@ -5818,8 +5818,8 @@
             "Saboteur"
         ],
         "Artist": "Ario Anindito & Annalisa Leoni",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/218.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/218.png"
     },
     {
         "Set": "SHD",
@@ -5847,8 +5847,8 @@
             "Ambush"
         ],
         "Artist": "Afif Khaled",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/219.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/219.png"
     },
     {
         "Set": "SHD",
@@ -5876,8 +5876,8 @@
             "Ambush"
         ],
         "Artist": "French Carlomagno",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/220.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/220.png"
     },
     {
         "Set": "SHD",
@@ -5899,8 +5899,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Ario Murti",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/221.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/221.png"
     },
     {
         "Set": "SHD",
@@ -5922,8 +5922,8 @@
         "Rarity": "Uncommon",
         "Unique": false,
         "Artist": "Amad Mir",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/222.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/222.png"
     },
     {
         "Set": "SHD",
@@ -5944,8 +5944,8 @@
         "Rarity": "Special",
         "Unique": false,
         "Artist": "Amélie Hutt",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/223.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/223.png"
     },
     {
         "Set": "SHD",
@@ -5967,8 +5967,8 @@
         "Rarity": "Rare",
         "Unique": true,
         "Artist": "Eslam Aboshady",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/224.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/224.png"
     },
     {
         "Set": "SHD",
@@ -5990,8 +5990,8 @@
         "Rarity": "Uncommon",
         "Unique": false,
         "Artist": "James Daly",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/225.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/225.png"
     },
     {
         "Set": "SHD",
@@ -6013,8 +6013,8 @@
         "Rarity": "Rare",
         "Unique": false,
         "Artist": "Denis Medri",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/226.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/226.png"
     },
     {
         "Set": "SHD",
@@ -6033,8 +6033,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Joshua Carson",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/227.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/227.png"
     },
     {
         "Set": "SHD",
@@ -6053,8 +6053,8 @@
         "Rarity": "Uncommon",
         "Unique": false,
         "Artist": "James Daly",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/228.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/228.png"
     },
     {
         "Set": "SHD",
@@ -6074,8 +6074,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Milos Slavkovic",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/229.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/229.png"
     },
     {
         "Set": "SHD",
@@ -6094,8 +6094,8 @@
         "Rarity": "Rare",
         "Unique": false,
         "Artist": "James Daly",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/230.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/230.png"
     },
     {
         "Set": "SHD",
@@ -6114,8 +6114,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Ario Murti",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/231.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/231.png"
     },
     {
         "Set": "SHD",
@@ -6134,8 +6134,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Aitor Prieto",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/232.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/232.png"
     },
     {
         "Set": "SHD",
@@ -6154,8 +6154,8 @@
         "Rarity": "Legendary",
         "Unique": false,
         "Artist": "Stephen Zavala",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/233.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/233.png"
     },
     {
         "Set": "SHD",
@@ -6180,8 +6180,8 @@
         "Rarity": "Special",
         "Unique": false,
         "Artist": "Amad Mir",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/234.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/234.png"
     },
     {
         "Set": "SHD",
@@ -6209,8 +6209,8 @@
             "Overwhelm"
         ],
         "Artist": "Ash Pierce",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/235.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/235.png"
     },
     {
         "Set": "SHD",
@@ -6235,8 +6235,8 @@
         "Rarity": "Special",
         "Unique": false,
         "Artist": "Erik Ly",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/236.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/236.png"
     },
     {
         "Set": "SHD",
@@ -6265,8 +6265,8 @@
             "Sentinel"
         ],
         "Artist": "Mark Zhang",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/237.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/237.png"
     },
     {
         "Set": "SHD",
@@ -6294,8 +6294,8 @@
             "Sentinel"
         ],
         "Artist": "French Carlomagno",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/238.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/238.png"
     },
     {
         "Set": "SHD",
@@ -6320,8 +6320,8 @@
         "Rarity": "Uncommon",
         "Unique": true,
         "Artist": "Amélie Hutt",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/239.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/239.png"
     },
     {
         "Set": "SHD",
@@ -6348,8 +6348,8 @@
             "Shielded"
         ],
         "Artist": "Omercan Cirit",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/240.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/240.png"
     },
     {
         "Set": "SHD",
@@ -6374,8 +6374,8 @@
         "Rarity": "Rare",
         "Unique": true,
         "Artist": "Markus Lenz",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/241.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/241.png"
     },
     {
         "Set": "SHD",
@@ -6405,8 +6405,8 @@
             "Overwhelm"
         ],
         "Artist": "Fernando Correa",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/242.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/242.png"
     },
     {
         "Set": "SHD",
@@ -6425,8 +6425,8 @@
         "Rarity": "Rare",
         "Unique": false,
         "Artist": "Amad Mir",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/243.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/243.png"
     },
     {
         "Set": "SHD",
@@ -6445,8 +6445,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Liana Anatolievich",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/244.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/244.png"
     },
     {
         "Set": "SHD",
@@ -6472,8 +6472,8 @@
         "Rarity": "Special",
         "Unique": true,
         "Artist": "Marc Escachx",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/245.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/245.png"
     },
     {
         "Set": "SHD",
@@ -6499,8 +6499,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Fernando Correa",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/246.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/246.png"
     },
     {
         "Set": "SHD",
@@ -6527,8 +6527,8 @@
             "Sentinel"
         ],
         "Artist": "French Carlomagno",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/247.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/247.png"
     },
     {
         "Set": "SHD",
@@ -6557,8 +6557,8 @@
             "Smuggle"
         ],
         "Artist": "Kyle Petchock",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/248.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/248.png"
     },
     {
         "Set": "SHD",
@@ -6585,8 +6585,8 @@
             "Grit"
         ],
         "Artist": "Aitor Prieto",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/249.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/249.png"
     },
     {
         "Set": "SHD",
@@ -6614,8 +6614,8 @@
             "Restore"
         ],
         "Artist": "Leonardo Giammichele",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/250.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/250.png"
     },
     {
         "Set": "SHD",
@@ -6637,8 +6637,8 @@
         "Rarity": "Special",
         "Unique": true,
         "Artist": "Joshua Carson",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/251.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/251.png"
     },
     {
         "Set": "SHD",
@@ -6660,8 +6660,8 @@
             "Smuggle"
         ],
         "Artist": "Eric Hibbeler",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/252.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/252.png"
     },
     {
         "Set": "SHD",
@@ -6680,8 +6680,8 @@
         "Rarity": "Uncommon",
         "Unique": false,
         "Artist": "Kyle Petchock",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/253.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/253.png"
     },
     {
         "Set": "SHD",
@@ -6702,8 +6702,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Marc Escachx",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/254.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/254.png"
     },
     {
         "Set": "SHD",
@@ -6725,8 +6725,8 @@
         "Rarity": "Uncommon",
         "Unique": true,
         "Artist": "Luke Harrington",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/255.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/255.png"
     },
     {
         "Set": "SHD",
@@ -6749,8 +6749,8 @@
         "Rarity": "Uncommon",
         "Unique": false,
         "Artist": "Christian Papazoglakis",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/256.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/256.png"
     },
     {
         "Set": "SHD",
@@ -6771,8 +6771,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Felipe Goncalves",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/257.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/257.png"
     },
     {
         "Set": "SHD",
@@ -6793,8 +6793,8 @@
         "Rarity": "Common",
         "Unique": true,
         "Artist": "Ash Pierce",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/258.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/258.png"
     },
     {
         "Set": "SHD",
@@ -6820,8 +6820,8 @@
             "Restore"
         ],
         "Artist": "Christian Papazoglakis",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/259.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/259.png"
     },
     {
         "Set": "SHD",
@@ -6842,8 +6842,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Yvette Chua",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/260.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/260.png"
     },
     {
         "Set": "SHD",
@@ -6862,8 +6862,8 @@
         "Rarity": "Common",
         "Unique": false,
         "Artist": "Rebecca Farrow",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/261.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/261.png"
     },
     {
         "Set": "SHD",
@@ -6879,7 +6879,7 @@
         "Rarity": "Special",
         "Unique": false,
         "Artist": "French Carlomagno",
-        "FrontArt": "https://d3alac64utt23z.cloudfront.net/images/cards/SHD/262.png",
-        "VariantType": "Normal"
+        "VariantType": "Normal",
+        "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/262.png"
     }
 ]
