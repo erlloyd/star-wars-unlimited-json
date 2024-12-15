@@ -98,6 +98,8 @@ const doImport = async () => {
         // Don't want to store prices as it changes frequently
         delete cardResponse.data.MarketPrice;
         delete cardResponse.data.FoilPrice;
+        delete cardResponse.data.LowPrice;
+        delete cardResponse.data.LowFoilPrice;
 
         cards.push(cardResponse.data);
         successfulCardCount = successfulCardCount + 1;
