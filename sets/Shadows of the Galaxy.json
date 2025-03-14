@@ -57,6 +57,9 @@
         "BackText": "GRIT (This unit gets +1/+0 for each damage on her.)\nWhen Deployed: Heal all damage from each unit. Then, deal damage to each unit equal to half its remaining HP, rounded down.",
         "Rarity": "Rare",
         "Unique": true,
+        "Keywords": [
+            "Grit"
+        ],
         "Artist": "Gretel Nancy Lusky",
         "VariantType": "Normal",
         "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/002.png"

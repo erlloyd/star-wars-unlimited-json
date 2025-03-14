@@ -21,6 +21,11 @@ const allSets = [
     englishSetName: "Twilight of the Republic",
     maxCardNumber: 257,
   },
+  {
+    apiSetName: "jtl",
+    englishSetName: "Jump to Lightspeed",
+    maxCardNumber: 262,
+  },
 ];
 
 const axiosCache = {};

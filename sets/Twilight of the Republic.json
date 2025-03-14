@@ -975,6 +975,9 @@
         "DoubleSided": false,
         "Rarity": "Common",
         "Unique": false,
+        "Keywords": [
+            "Grit"
+        ],
         "Artist": "Afif Khaled",
         "VariantType": "Normal",
         "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/036.png"
